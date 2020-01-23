@@ -45,7 +45,8 @@ class home extends Component {
                <div className="right">
                    <button>New Project</button>
                    <span className="con"><FaBell/></span>
-                <Link to="/">  <span  className="con"><FaUserCircle/></span></Link> 
+                <Link to="/">  <span  className="con"><FaUserCircle/></span>
+                </Link> 
                </div>
                </div>
             
